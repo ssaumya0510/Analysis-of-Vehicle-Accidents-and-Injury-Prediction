@@ -14,7 +14,7 @@ To predict injuries caused by car accidents, the following machine learning tech
 - **XGBoost**
 - **Neural Networks (LSTM)**
 
-These techniques will be implemented in the order of increasing algorithm complexity. The data will be analyzed using various univariate, bivariate, and multivariate analysis techniques to extract key information that can be used to build the machine learning models. The analyses will be performed using Python libraries such as `matplotlib` and `seaborn`.
+These techniques have been implemented in order of increasing algorithmic complexity. The data has been analyzed using various univariate, bivariate, and multivariate analysis techniques to extract key information that can be used to build the machine learning models. The analyses were performed using Python libraries such as matplotlib, numpy, pandas, plotly, and seaborn.
 
 ## Conclusion
 
